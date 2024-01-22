@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93666548579",
+    "project_id": "eldhywear-shopee",
+    "storage_bucket": "eldhywear-shopee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93666548579:android:12b2bdb09c0e135989d156",
+        "android_client_info": {
+          "package_name": "com.example.bcdx_21312020"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR7Q2bTXwlzEMmUScdIXfvK87QA5_AVw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
